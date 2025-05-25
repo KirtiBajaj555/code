@@ -1,0 +1,1 @@
+{"detail":[{"type":"missing","loc":["body","input"],"msg":"Field required","input":{"text":"Hello there, I am your AI assistant","voice":"en_us_001","model":"default"}}]}
