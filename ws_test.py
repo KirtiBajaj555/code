@@ -5,7 +5,7 @@ import websockets
 import io
 from pydub import AudioSegment
 from pydub.playback import play
-
+wss://psychic-couscous-wp6prrv69wg39g6q-8000.app.github.dev/ws/stream
 # CHANGE THIS to your server's actual endpoint
 WS_URI = "wss://probable-space-eureka-wr5gxpx99rwv39pv5-8000.app.github.dev/ws/stream"
 CHUNK_SIZE = 17640  # ~0.2 sec of audio at 22050 Hz
